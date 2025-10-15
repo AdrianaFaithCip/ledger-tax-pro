@@ -1,4 +1,3 @@
-
 window.APP_ID = "ledger-tax-pro";
 
 window.FIREBASE_CONFIG = {
@@ -10,4 +9,5 @@ window.FIREBASE_CONFIG = {
   appId: "1:808408783613:web:dedd71ff00776e53763c94"
  
 };
+
 
